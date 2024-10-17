@@ -1,0 +1,721 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "categoryName": "Áo Nam",
+      "name": "Áo Sơ Mi Nam",
+      "categoryId": "1",
+      "price": 300000,
+      "image": "https://mcdn.coolmate.me/image/February2023/mceclip13.jpg",
+      "description": "Áo sơ mi chất liệu cotton, form dáng slim fit.",
+      "colors": [
+        "blue",
+        "black",
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "sizeChartImage": "https://dongphuccati.com/upload_images/images/bai%20viet%20t5/ao%20nu.jpg",
+      "imagesByColor": {
+        "blue": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ57p4VonQxeIEV9BlzqgHybYG63U0f8WGAZw&s",
+        "black": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJoRZqOvnedEm97inA7ze2N5yW9ctfK395QA&s",
+        "white": "https://media3.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/July2024/Dobby_7.jpg"
+      }
+    },
+    {
+      "id": "2",
+      "categoryName": "Áo Nam",
+      "name": "Áo Sơ Mi Nam",
+      "categoryId": "1",
+      "price": 290000,
+      "image": "https://owen.cdn.vccloud.vn/media/catalog/product/cache/d52d7e242fac6dae82288d9a793c0676/a/s/as220926d._14_1.jpg",
+      "description": "Áo sơ mi chất liệu cotton, form dáng slim fit.",
+      "colors": [
+        "blue",
+        "black",
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "sizeChartImage": "https://dongphuccati.com/upload_images/images/bai%20viet%20t5/ao%20nu.jpg",
+      "imagesByColor": {
+        "blue": "https://media3.coolmate.me/cdn-cgi/image/quality=80/uploads/July2024/Dobby_1.jpg",
+        "black": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrN3yxed869VTQzYDo3RC5PffWlC881VyoAg&s",
+        "white": "https://media3.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/July2024/Dobby_6.jpg"
+      }
+    },
+    {
+      "id": "3",
+      "categoryName": "Áo Nam",
+      "name": "Áo Sơ Mi Nam",
+      "categoryId": "1",
+      "price": 250000,
+      "image": "https://product.hstatic.net/1000388805/product/ao-so-mi-nam-trang5_e762b717ff7b4c13bfa9f57d6c3b47c2.jpg",
+      "description": "Áo sơ mi chất liệu cotton, form dáng slim fit.",
+      "colors": [
+        "blue",
+        "black",
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "",
+        "L"
+      ],
+      "sizeChartImage": "https://example.com/size-chart.jpg",
+      "imagesByColor": {
+        "blue": "https://owen.cdn.vccloud.vn/media/catalog/product/cache/d52d7e242fac6dae82288d9a793c0676/a/r/ar220852dt._79.jpg",
+        "black": "https://down-vn.img.susercontent.com/file/ee7f85e72db955e7253e41f89391eb3b",
+        "white": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbSBtcJ2UXhWGUbAVtibgX22M03GLYls1maw&s"
+      }
+    },
+    {
+      "id": "4",
+      "categoryName": "Áo Nam",
+      "name": "Áo Sơ Mi Nam",
+      "categoryId": "1",
+      "price": 250000,
+      "image": "https://product.hstatic.net/200000642151/product/m-th22s-009__1__8155945a548d4abcbece2d10356e3af6_901f5fef7faf429e94ae4c5cbd035d6f_master.jpg",
+      "description": "Áo sơ mi chất liệu cotton, form dáng slim fit.",
+      "colors": [
+        "blue",
+        "black",
+        "white"
+      ],
+      "sizes": [
+        "",
+        "M",
+        "L"
+      ],
+      "sizeChartImage": "https://example.com/size-chart.jpg",
+      "imagesByColor": {
+        "blue": "https://product.hstatic.net/200000574651/product/giovani-2797_d69ecc6e7cb84cf3bf7e37da08ddc44b_a0bf3f94d5f24c0f970c36d05090f1aa_master.jpg",
+        "black": "https://www.chapi.vn/img/product/2019/8/14/ao-so-mi-nam-dai-tay-four1-7-500x500.jpg",
+        "white": "https://img.lazcdn.com/g/p/7427f2e504be3434fa4f5dbb0cc08f70.jpg_720x720q80.jpg"
+      }
+    },
+    {
+      "id": "5",
+      "categoryName": "Áo Nam",
+      "name": "Áo Sơ Mi Nam",
+      "categoryId": "1",
+      "price": 250000,
+      "image": "https://tunhalam.com/cdn/shop/products/image_c37028bb-cfc8-466b-a106-d1ca8ad8a323.jpg?v=1676209470",
+      "description": "Áo sơ mi chất liệu cotton, form dáng slim fit.",
+      "colors": [
+        "blue",
+        "black",
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        ""
+      ],
+      "sizeChartImage": "https://example.com/size-chart.jpg",
+      "imagesByColor": {
+        "blue": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSE8MyeLdynY_C1S6Pnh0mwefIXP4ej9f_sQ&s",
+        "black": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC5GVocFt5JcT4AW5DkfOTde9xj5jeIBmfHA&s",
+        "white": "https://ann.com.vn/wp-content/uploads/so-mi-nam-han-quoc-theu-chu-a-921-701.jpg"
+      }
+    },
+    {
+      "id": "6",
+      "categoryName": "Áo Nam",
+      "name": "Áo Sơ Mi Nam",
+      "categoryId": "1",
+      "price": 250000,
+      "image": "https://dosi-in.com/images/detailed/410/dosiin-ssstutter-ao-so-mi-nam-ssstutter-nua-hang-cuc-chat-linen-thoang-mat-premium-linen-shirt-4410682.jpg",
+      "description": "Áo sơ mi chất liệu cotton, form dáng slim fit.",
+      "colors": [
+        "blue",
+        "black",
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "",
+        "L"
+      ],
+      "sizeChartImage": "https://example.com/size-chart.jpg",
+      "imagesByColor": {
+        "blue": "https://product.hstatic.net/200000574651/product/giovani-2797_d69ecc6e7cb84cf3bf7e37da08ddc44b_a0bf3f94d5f24c0f970c36d05090f1aa_master.jpg",
+        "black": "https://pubcdn.ivymoda.com/files/news/2023/04/28/ab6545f52bb022a506401e43c4c0bcc9.jpg",
+        "white": "https://lapier.vn/wp-content/uploads/2023/08/size-ao-so-mi-nam-8.jpeg"
+      }
+    },
+    {
+      "id": "7",
+      "categoryName": "Quần Nam",
+      "name": "Quần Jeans Nam",
+      "categoryId": "2",
+      "price": 550000,
+      "image": "https://360.com.vn/wp-content/uploads/2024/06/QJDTK502-2.jpg",
+      "description": "Quần jeans nam thời trang, chất liệu denim.",
+      "colors": [
+        "blue",
+        "black"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        ""
+      ],
+      "sizeChartImage": "https://example.com/size-chart-jeans.jpg",
+      "imagesByColor": {
+        "blue": "https://360.com.vn/wp-content/uploads/2023/04/QJDTK338-2-Copy-scaled.jpg",
+        "black": "https://vulcano.sgp1.digitaloceanspaces.com/media/9178/quan_jean_2006A-%281%29.jpg"
+      }
+    },
+    {
+      "id": "8",
+      "categoryName": "Quần Nam",
+      "name": "Quần Jeans Nam",
+      "categoryId": "2",
+      "price": 300000,
+      "image": "https://down-vn.img.susercontent.com/file/22b1b72be28b9cd9d34a5c8b873b7c3c",
+      "description": "Quần jeans nam thời trang, chất liệu denim.",
+      "colors": [
+        "blue",
+        "black"
+      ],
+      "sizes": [
+        "M",
+        "",
+        "XL"
+      ],
+      "sizeChartImage": "https://example.com/size-chart-jeans.jpg",
+      "imagesByColor": {
+        "blue": "https://pubcdn.ivymoda.com/files/news/2023/10/27/c284d544a99b014031efd25821f60441.jpg",
+        "black": "https://pos.nvncdn.com/5048a3-93414/ps/20220116_2zMiXOPrzCpKQXj7IlIxAEp5.jpg"
+      }
+    },
+    {
+      "id": "9",
+      "categoryName": "Quần Nam",
+      "name": "Quần Jeans Nam",
+      "categoryId": "2",
+      "price": 450000,
+      "image": "https://bizweb.dktcdn.net/100/438/408/files/quan-jeans-nam-qjm3071-7.jpg?v=1686129607379",
+      "description": "Quần jeans nam thời trang, chất liệu denim.",
+      "colors": [
+        "blue",
+        "black"
+      ],
+      "sizes": [
+        "",
+        "L",
+        "XL"
+      ],
+      "sizeChartImage": "https://example.com/size-chart-jeans.jpg",
+      "imagesByColor": {
+        "blue": "https://pos.nvncdn.com/5048a3-93414/ps/20220527_dwo4FunH906fcIfa13sQROmn.jpg",
+        "black": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQMtChH800xmgsUXAdpzUywxWvQHED9rwotA&s"
+      }
+    },
+    {
+      "id": "10",
+      "categoryName": "Quần Nam",
+      "name": "Quần Jeans Nam",
+      "categoryId": "2",
+      "price": 500000,
+      "image": "https://heis.vn/storage/uploads/2019/10/09/5d9d959f5c881.jpg",
+      "description": "Quần jeans nam thời trang, chất liệu denim.",
+      "colors": [
+        "blue",
+        "black"
+      ],
+      "sizes": [
+        "",
+        "L",
+        "XL"
+      ],
+      "sizeChartImage": "https://example.com/size-chart-jeans.jpg",
+      "imagesByColor": {
+        "blue": "https://product.hstatic.net/1000210295/product/quan-jeans-nam-mau-xanh-sang-dang-straight-123md4083b1930__4__a71f88a4552548d7bcb52cbf88bbc991_master.jpg",
+        "black": "https://namfashion.com/home/wp-content/uploads/2020/06/cc7f6b788a5877062e49.jpg"
+      }
+    },
+    {
+      "id": "11",
+      "categoryName": "Quần Nam",
+      "name": "Quần Jeans Nam",
+      "categoryId": "2",
+      "price": 450000,
+      "image": "https://product.hstatic.net/1000360022/product/id-003866a_1efbcf3bfb17473ebcd589d85ea3060a_master.jpg",
+      "description": "Quần jeans nam thời trang, chất liệu denim.",
+      "colors": [
+        "blue",
+        "black"
+      ],
+      "sizes": [
+        "M",
+        "",
+        "XL"
+      ],
+      "sizeChartImage": "https://example.com/size-chart-jeans.jpg",
+      "imagesByColor": {
+        "blue": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAOz-_fGi90DO5YQenEfjhOO0njQD14LTL1A&s",
+        "black": "https://file.hstatic.net/1000360022/file/skinny_fe657ee4943842c198742208a39278ed.jpg"
+      }
+    },
+    {
+      "id": "12",
+      "categoryName": "Quần Nam",
+      "name": "Quần Jeans Nam",
+      "categoryId": "2",
+      "price": 450000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzgh0O9TYSGB2g72tDdLoMiIF6FlXzw0HO1g&s",
+      "description": "Quần jeans nam thời trang, chất liệu denim.",
+      "colors": [
+        "blue",
+        "black"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        ""
+      ],
+      "sizeChartImage": "https://example.com/size-chart-jeans.jpg",
+      "imagesByColor": {
+        "blue": "https://product.hstatic.net/1000378223/product/2_3e9f4834804f496f904af2a873ff26b9.jpg",
+        "black": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQFp1EQO3ImpVBaM2JIguQc0-Z7MF9kW0CSw&s"
+      }
+    },
+    {
+      "id": "13",
+      "categoryName": "Giày Nam",
+      "name": "Giày Thể Thao Nam",
+      "categoryId": "3",
+      "price": 600000,
+      "image": "https://bizweb.dktcdn.net/100/405/002/products/110.png?v=1692951982147",
+      "description": "Giày thể thao nam phong cách hiện đại.",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "",
+        "41",
+        "42"
+      ],
+      "sizeChartImage": "https://example.com/size-chart-shoes.jpg",
+      "imagesByColor": {
+        "white": "https://bizweb.dktcdn.net/100/405/002/products/130.png?v=1692952475837",
+        "black": "https://www.chapi.vn/img/product/2020/3/3/giay-sneaker-the-thao-nam-g5-conxegn-8-500x500.jpg"
+      }
+    },
+    {
+      "id": "14",
+      "categoryName": "Giày Nam",
+      "name": "Giày Thể Thao Nam",
+      "categoryId": "3",
+      "price": 600000,
+      "image": "https://timan.vn/upload/products/122023/giay-the-thao-nam-tmrk22-thoi-trang.jpg",
+      "description": "Giày thể thao nam phong cách hiện đại.",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "40",
+        "41",
+        "42"
+      ],
+      "sizeChartImage": "https://example.com/size-chart-shoes.jpg",
+      "imagesByColor": {
+        "white": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lt3mz9ox97rtf1",
+        "black": "https://vimmart.com/cdn/shop/files/HSM003200DEN_1.jpg?v=1690452163"
+      }
+    },
+    {
+      "id": "15",
+      "categoryName": "Giày Nam",
+      "name": "Giày Thể Thao Nam",
+      "categoryId": "3",
+      "price": 600000,
+      "image": "https://product.hstatic.net/1000230642/product/bsm001100den1_01690cbb8f214c259165b1c34d7d9daf.jpg",
+      "description": "Giày thể thao nam phong cách hiện đại.",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "40",
+        "41",
+        "42"
+      ],
+      "sizeChartImage": "https://example.com/size-chart-shoes.jpg",
+      "imagesByColor": {
+        "white": "https://lakinta.vn/wp-content/uploads/2023/10/anh-1-3.jpg",
+        "black": "https://product.hstatic.net/1000355922/product/giay-the-thao-nam-flx-buoc-day-xuat-du-full-den__2__a22cadc4f8ce43bfa581a769ca3306e3_master.jpg"
+      }
+    },
+    {
+      "id": "16",
+      "categoryName": "Giày Nam",
+      "name": "Giày Thể Thao Nam",
+      "categoryId": "3",
+      "price": 600000,
+      "image": "https://bizweb.dktcdn.net/thumb/1024x1024/100/405/002/products/101.png?v=1692951656860",
+      "description": "Giày thể thao nam phong cách hiện đại.",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "40",
+        "41",
+        "42"
+      ],
+      "sizeChartImage": "https://example.com/size-chart-shoes.jpg",
+      "imagesByColor": {
+        "white": "https://bizweb.dktcdn.net/thumb/1024x1024/100/449/472/products/b10d977e-248b-4017-8cc0-17bc3f3e6411.jpg?v=1655114553890",
+        "black": "https://product.hstatic.net/200000365171/product/7_b644934b1ad849ed8f0587d633361045_master.jpg"
+      }
+    },
+    {
+      "id": "17",
+      "categoryName": "Giày Nam",
+      "name": "Giày Thể Thao Nam",
+      "categoryId": "3",
+      "price": 600000,
+      "image": "https://bizweb.dktcdn.net/thumb/1024x1024/100/405/002/products/101.png?v=1692951656860",
+      "description": "Giày thể thao nam phong cách hiện đại.",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "40",
+        "41",
+        "42"
+      ],
+      "sizeChartImage": "https://example.com/size-chart-shoes.jpg",
+      "imagesByColor": {
+        "white": "https://bizweb.dktcdn.net/thumb/1024x1024/100/449/472/products/b10d977e-248b-4017-8cc0-17bc3f3e6411.jpg?v=1655114553890",
+        "black": "https://product.hstatic.net/200000365171/product/7_b644934b1ad849ed8f0587d633361045_master.jpg"
+      }
+    },
+    {
+      "id": "18",
+      "categoryName": "Giày Nam",
+      "name": "Giày Thể Thao Nam",
+      "categoryId": "3",
+      "price": 600000,
+      "image": "https://lakinta.vn/wp-content/uploads/2022/12/giay-sneaker-nam-6.jpeg",
+      "description": "Giày thể thao nam phong cách hiện đại.",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "40",
+        "41",
+        "42"
+      ],
+      "sizeChartImage": "https://example.com/size-chart-shoes.jpg",
+      "imagesByColor": {
+        "white": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR38QE5-PgWANpw6PV5vkYPxF-mRp7GfJ7zmg&s",
+        "black": "https://img.lazcdn.com/g/p/6240c004aa8944430bbdeb1cbaa37de5.jpg_720x720q80.jpg"
+      }
+    }
+  ],
+  "cart": [
+    {
+      "userId": "18",
+      "items": [
+        {
+          "productId": "2",
+          "name": "Quần Jeans Nam",
+          "quantity": 1,
+          "price": 450000
+        }
+      ],
+      "id": "138a"
+    }
+  ],
+  "orders": [
+    {
+      "id": "345c",
+      "userId": "1",
+      "items": [
+        {
+          "quantity": 1,
+          "price": 300000,
+          "name": "Áo Sơ Mi Nam",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ57p4VonQxeIEV9BlzqgHybYG63U0f8WGAZw&s",
+          "selectedSize": "S",
+          "selectedColor": "blue"
+        }
+      ],
+      "total": 300000,
+      "date": "2024-10-13T17:12:46.836Z",
+      "status": "Pending",
+      "customerInfo": {
+        "name": "thạch",
+        "email": "thachngocpham95@gmail.com",
+        "phone": "0987654321",
+        "address": "a",
+        "city": 10,
+        "district": "Huyện Bắc Hà",
+        "postalCode": "",
+        "paymentMethod": "COD",
+        "cardInfo": {
+          "name": "",
+          "number": "",
+          "expiry": "",
+          "cvv": ""
+        },
+        "note": ""
+      }
+    },
+    {
+      "id": "ab33",
+      "userId": "1",
+      "items": [
+        {
+          "quantity": 2,
+          "price": 290000,
+          "name": "Áo Sơ Mi Nam",
+          "imageUrl": "https://media3.coolmate.me/cdn-cgi/image/quality=80/uploads/July2024/Dobby_1.jpg",
+          "selectedSize": "L",
+          "selectedColor": "blue"
+        }
+      ],
+      "total": 580000,
+      "date": "2024-10-13T17:17:52.452Z",
+      "status": "Pending",
+      "customerInfo": {
+        "name": "thach",
+        "email": "thachngocpham95@gmail.com",
+        "phone": "0987654321",
+        "address": "a",
+        "city": 11,
+        "district": "Huyện Tủa Chùa",
+        "postalCode": "",
+        "paymentMethod": "COD",
+        "cardInfo": {
+          "name": "",
+          "number": "",
+          "expiry": "",
+          "cvv": ""
+        },
+        "note": ""
+      }
+    },
+    {
+      "id": "bf04",
+      "userId": "1",
+      "items": [
+        {
+          "quantity": 6,
+          "price": 290000,
+          "name": "Áo Sơ Mi Nam",
+          "imageUrl": "https://media3.coolmate.me/cdn-cgi/image/quality=80/uploads/July2024/Dobby_1.jpg",
+          "selectedSize": "S",
+          "selectedColor": "blue"
+        },
+        {
+          "quantity": 3,
+          "price": 290000,
+          "name": "Áo Sơ Mi Nam",
+          "imageUrl": "https://media3.coolmate.me/cdn-cgi/image/quality=80/uploads/July2024/Dobby_1.jpg",
+          "selectedSize": "L",
+          "selectedColor": "blue"
+        },
+        {
+          "quantity": 5,
+          "price": 300000,
+          "name": "Áo Sơ Mi Nam",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJoRZqOvnedEm97inA7ze2N5yW9ctfK395QA&s",
+          "selectedSize": "M",
+          "selectedColor": "black"
+        }
+      ],
+      "total": 4110000,
+      "date": "2024-10-17T09:06:57.993Z",
+      "status": "Pending",
+      "customerInfo": {
+        "name": "thach",
+        "email": "thachngocpham95@gmail.com",
+        "phone": "0987654321",
+        "address": "98 Phan Thanh",
+        "city": "aaaaa",
+        "district": "Quận Ngũ Hành Sơn",
+        "postalCode": "",
+        "paymentMethod": "COD",
+        "cardInfo": {
+          "name": "",
+          "number": "",
+          "expiry": "",
+          "cvv": ""
+        },
+        "note": ""
+      }
+    }
+  ],
+  "users": [
+    {
+      "username": "thach",
+      "email": "thachngocpham95@gmail.com",
+      "phone": "0987654321",
+      "addressDetail": "98 Phan Thanh",
+      "province": "đà nẵng",
+      "district": "Quận Ngũ Hành Sơn",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "username": "admin",
+      "email": "admin@example.com",
+      "phone": "0987654322",
+      "address": "456 Đường DEF",
+      "password": "admin1",
+      "role": "user"
+    },
+    {
+      "id": "258c",
+      "username": "thach",
+      "password": "thach1",
+      "role": "user",
+      "email": "admin@admin.com",
+      "phone": "0978654321",
+      "address": "789 Hà Nội"
+    },
+    {
+      "id": "f62e",
+      "username": "hoang",
+      "password": "hoang1",
+      "role": "user",
+      "email": "admin@admin.com",
+      "phone": "09876543211",
+      "address": "phan thanh"
+    },
+    {
+      "id": "46c1",
+      "username": "hoang",
+      "password": "hoang1",
+      "role": "user",
+      "email": "admin@admin.com",
+      "phone": "09876543211",
+      "address": "phan thanh"
+    },
+    {
+      "id": "911e",
+      "username": "hoang",
+      "password": "hoang1",
+      "role": "user",
+      "email": "admin@admin.com",
+      "phone": "09876543211",
+      "address": "phan thanh"
+    },
+    {
+      "id": "5ec2",
+      "username": "hoang",
+      "password": "hoang1",
+      "role": "user",
+      "email": "admin@admin.com",
+      "phone": "09876543211",
+      "address": "phan thanh"
+    },
+    {
+      "id": "66bb",
+      "username": "hoang",
+      "password": "hoang1",
+      "role": "user",
+      "email": "admin@admin.com",
+      "phone": "09876543211",
+      "address": "phan thanh"
+    },
+    {
+      "id": "e6a0",
+      "username": "hoang",
+      "password": "hoang1",
+      "role": "user",
+      "email": "admin@admin.com",
+      "phone": "09876543211",
+      "address": "phan thanh"
+    },
+    {
+      "id": "ac01",
+      "username": "hoang",
+      "password": "hoang1",
+      "role": "user",
+      "email": "admin@admin.com",
+      "phone": "09876543211",
+      "address": "phan thanh"
+    },
+    {
+      "id": "a94b",
+      "username": "hoang",
+      "password": "hoang1",
+      "role": "user",
+      "email": "admin@admin.com",
+      "phone": "09876543211",
+      "address": "phan thanh"
+    },
+    {
+      "id": "3097",
+      "username": "hoang",
+      "password": "hoang1",
+      "role": "user",
+      "email": "admin@admin.com",
+      "phone": "09876543211",
+      "address": "phan thanh"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "userId": 1,
+      "productId": 2,
+      "text": "Bình luận của người dùng A",
+      "username": "nguoixd1"
+    },
+    {
+      "id": "2",
+      "userId": 1,
+      "productId": 3,
+      "text": "Bình luận của người dùng A",
+      "username": "nguoixd1"
+    },
+    {
+      "id": "ac5c",
+      "rating": 5,
+      "comment": "a",
+      "username": "thach",
+      "productId": "2"
+    },
+    {
+      "id": "ef08",
+      "rating": 3,
+      "comment": "s",
+      "username": "thach",
+      "productId": "1"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "categoryName": "Áo Nam",
+      "categoryId": "1"
+    },
+    {
+      "id": "2",
+      "categoryName": "Quần Nam",
+      "categoryId": "2"
+    },
+    {
+      "id": "3",
+      "categoryName": "Giày Nam",
+      "categoryId": "3"
+    }
+  ]
+}
